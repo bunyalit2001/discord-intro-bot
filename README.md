@@ -34,7 +34,8 @@
 │ ├─ introModal.js
 │ └─ submitIntro.js
 │
-└─ utils/```
+└─ utils/
+```
 
 
 ## 🚀 Getting Started
@@ -42,4 +43,4 @@
 ### 1️⃣ Clone repository
 ```bash
 git clone https://github.com/bunyalit2001/discord-intro-bot.git
-cd discord-intro-bot```
+cd discord-intro-bot
